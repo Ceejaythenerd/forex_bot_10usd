@@ -1,0 +1,6 @@
+MetaTrader5
+backtesting
+pandas
+numpy
+pandas-ta
+pytz
